@@ -1,0 +1,3 @@
+# leetcode
+
+Archiving LeetCode excercises 🕯
